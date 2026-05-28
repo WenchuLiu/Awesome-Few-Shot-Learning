@@ -23,6 +23,8 @@ Collect some papers about few-shot object detection for computer vision.
 | CVPR26 | Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://arxiv.org/abs/2603.18541) | - |
 | CVPR26 | A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps | Object Detection | [LINK](https://arxiv.org/abs/2603.28182) | [CODE](https://github.com/Intellindust-AI-Lab/FT-FSOD) |
 | CVPR26 | INSID3: Training-Free In-Context Segmentation with DINOv3 (Oral) | Object Detection | [LINK](https://arxiv.org/abs/2603.28480) | [CODE](https://github.com/visinf/INSID3) |
+| CVPR26 | Language Does Matter for Cross-Domain Few-Shot Visual Feature Enhancement | Classification, Object Detection, Segmentation | [LINK](https://cvpr.thecvf.com/virtual/2026/poster/37217) | [CODE](https://github.com/SivanXT/LDM-CDFSL) |
+| CVPR26 | AgentDet: A Shared-Blackboard Multi-Agent Framework for Zero-/Few-Shot Object Detection | Agent, Object Detection | [LINK](https://cvpr.thecvf.com/virtual/2026/poster/38128) | - |
 | ArXiv26 | DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection | LLM, Object Detection | [LINK](https://arxiv.org/abs/2603.23455) | [CODE](https://github.com/ggare-cmu/DetPO) |
 | ArXiv26 | Reviving In-domain Fine-tuning Methods for Source-Free Cross-domain Few-shot Learning | Classification | [LINK](https://arxiv.org/pdf/2605.11659) | - |
 | ArXiv26 | PrAda: Few-Shot Visual Adaptation for Text-Prompted Segmentation | Visual Prompt, Segmentation | [LINK](https://arxiv.org/abs/2605.19623) | [CODE](https://github.com/FocoosAI/PrAda) |
