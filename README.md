@@ -27,7 +27,8 @@ Collect some papers about few-shot object detection for computer vision.
 | CVPR26 | AgentDet: A Shared-Blackboard Multi-Agent Framework for Zero-/Few-Shot Object Detection | Agent, Object Detection | [LINK](https://openaccess.thecvf.com//content/CVPR2026/papers/Li_AgentDet_A_Shared-Blackboard_Multi-Agent_Framework_for_Zero-Few-Shot_Object_Detection_CVPR_2026_paper.pdf) | - |
 | ArXiv26 | DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection | LLM, Object Detection | [LINK](https://arxiv.org/abs/2603.23455) | [CODE](https://github.com/ggare-cmu/DetPO) |
 | ArXiv26 | Reviving In-domain Fine-tuning Methods for Source-Free Cross-domain Few-shot Learning | Classification | [LINK](https://arxiv.org/pdf/2605.11659) | - |
-| ArXiv26 | PrAda: Few-Shot Visual Adaptation for Text-Prompted Segmentation | Visual Prompt, Segmentation | [LINK](https://arxiv.org/abs/2605.19623) | [CODE](https://github.com/FocoosAI/PrAda) |
+| CVPR26 Findings | PrAda: Few-Shot Visual Adaptation for Text-Prompted Segmentation | Visual Prompt, Segmentation | [LINK](https://arxiv.org/abs/2605.19623) | [CODE](https://github.com/FocoosAI/PrAda) |
+| ArXiv26 | GiPL: Generative Augmented Iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://arxiv.org/abs/2605.29539) | [CODE](https://github.com/z-yaz/CDiscover) |
 
 ### 2025
 
