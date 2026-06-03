@@ -10,6 +10,7 @@ Collect some papers about few-shot object detection for computer vision.
 | :----:|:-----|:-----:|
 | ArXiv22 | A Survey of Deep Learning for Low-Shot Object Detection | [PDF](https://arxiv.org/pdf/2112.02814.pdf) |
 | ArXiv22 | A Unified Framework for Attention-Based Few-Shot Object Detection | [PDF](https://arxiv.org/pdf/2201.02052.pdf) |
+| ACM CSUR 25 | Deep Learning for Cross-Domain Few-Shot Visual Recognition: A Survey | [LINK](https://dl.acm.org/doi/full/10.1145/3718362) |
 
 ### 2026
 
@@ -17,8 +18,8 @@ Collect some papers about few-shot object detection for computer vision.
 | :----:|:-----|:----:|:----:|:----:|
 | CVPRW26 | The Second Challenge on Cross-Domain Few-Shot Object Detection at NTIRE 2026: Methods and Results | Object Detection | [LINK](https://arxiv.org/abs/2604.11998) | [CODE](https://github.com/ohMargin/NTIRE2026_CDFSOD) |
 | ICLR26 | FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion | Object Detection | [LINK](https://iclr.cc/virtual/2026/poster/10007893) | [CODE](https://intellindust-ai-lab.github.io/projects/FSOD-VFM) |
-| AAAI26 | Less is Better: Sparse Instance Learning for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
-| AAAI26 | Intra-Image Mining and Symmetric Maximum Concept Matching for Few Shot Out-of-Distribution Detection | OOD Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
+| AAAI26 | Less is Better: Sparse Instance Learning for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/37432) | [CODE](https://github.com/johnmaijer/LessIsBetter) |
+| AAAI26 | Intra-Image Mining and Symmetric Maximum Concept Matching for Few Shot Out-of-Distribution Detection | OOD Detection | [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/37280) | [CODE](https://github.com/pSGAme/IIM-SMCM) |
 | AAAI26 | StyleProto: Style-Augmented Prototype Learning for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://dblp.org/rec/conf/aaai/YangX26.html) | [CODE](https://github.com/Wildfire-det/StyleProto) |
 | CVPR26 | Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://arxiv.org/abs/2603.18541) | - |
 | CVPR26 | A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps | Object Detection | [LINK](https://arxiv.org/abs/2603.28182) | [CODE](https://github.com/Intellindust-AI-Lab/FT-FSOD) |
