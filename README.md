@@ -30,6 +30,7 @@ Collect some papers about few-shot object detection for computer vision.
 | ArXiv26 | Reviving In-domain Fine-tuning Methods for Source-Free Cross-domain Few-shot Learning | Classification | [LINK](https://arxiv.org/pdf/2605.11659) | - |
 | CVPR26 Findings | PrAda: Few-Shot Visual Adaptation for Text-Prompted Segmentation | Visual Prompt, Segmentation | [LINK](https://arxiv.org/abs/2605.19623) | [CODE](https://github.com/FocoosAI/PrAda) |
 | ArXiv26 | GiPL: Generative Augmented Iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://arxiv.org/abs/2605.29539) | [CODE](https://github.com/z-yaz/CDiscover) |
+| ArXiv26 | Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection | Object Detection | [LINK](https://arxiv.org/abs/2606.23069) | [CODE](https://github.com/VisualScienceLab-KHU/ReSet) |
 | IJCNN26 | GP-Adapter: Gaussian Process CLIP-Adapter for Few-Shot Out-of-Distribution Detection | OOD Detection | [LINK](https://arxiv.org/abs/2606.07102) | [CODE](https://github.com/tms-byte/GP-Adapter) |
 
 ### 2025
