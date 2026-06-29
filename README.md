@@ -44,7 +44,7 @@ Collect some papers about few-shot object detection for computer vision.
 | ICLR25 | Multi-Perspective Data Augmentation for Few-shot Object Detection | Object Detection | [LINK](https://iclr.cc/virtual/2025/poster/28258) | - |
 | NeurIPS25 | Domain-RAG: Retrieval Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://arxiv.org/abs/2506.05872) | [CODE](https://github.com/LiYu0524/Domain-RAG) |
 | NeurIPS25 | Don't Need Retraining: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://openreview.net/pdf?id=5TTUwJGqHT) | [CODE](https://github.com/lch216/VFMDETR) |
-| TPAMI25 | Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection | Object Detection | [LINK](https://ieeexplore.ieee.org/document/10963743/) | - |
+| TPAMI25 | Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection | Object Detection | [LINK](https://ieeexplore.ieee.org/document/10963743/) | [CODE](https://github.com/RuoyuChen10/CCL-FSOD) |
 | ArXiv25 | No time to train! Training-Free Reference-Based Instance Segmentation | Instance Segmentation | [LINK](https://arxiv.org/abs/2507.02798) | [CODE](https://github.com/miquel-espinosa/no-time-to-train) |
 
 ### 2024
