@@ -33,6 +33,7 @@ Collect some papers about few-shot object detection for computer vision.
 | ArXiv26 | Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection | Object Detection | [LINK](https://arxiv.org/abs/2606.23069) | [CODE](https://github.com/VisualScienceLab-KHU/ReSet) |
 | IJCNN26 | GP-Adapter: Gaussian Process CLIP-Adapter for Few-Shot Out-of-Distribution Detection | OOD Detection | [LINK](https://arxiv.org/abs/2606.07102) | [CODE](https://github.com/tms-byte/GP-Adapter) |
 | ArXiv26 | Training-free Cross-domain Few-shot Segmentation via Robust Semantic Representation and Matching | Segmentation | [LINK](https://arxiv.org/abs/2606.24297) | - |
+| ArXiv26 | Personalized Object Identification and Localization via In-Context Inference with Vision-Language Models | Object Detection, VLM | [LINK](https://arxiv.org/abs/2607.00357) | - |
 
 ### 2025
 
