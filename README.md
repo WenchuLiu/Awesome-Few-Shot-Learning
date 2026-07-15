@@ -14,45 +14,65 @@ Collect some papers about few-shot object detection for computer vision.
 
 ### 2026
 
-- **CVPRW, 2026.  [The Second Challenge on Cross-Domain Few-Shot Object Detection at NTIRE 2026: Methods and Results](https://arxiv.org/abs/2604.11998).  [[CODE]](https://github.com/ohMargin/NTIRE2026_CDFSOD)**
+- **[The Second Challenge on Cross-Domain Few-Shot Object Detection at NTIRE 2026: Methods and Results](https://arxiv.org/abs/2604.11998).**
+  - *CVPRW, 2026.  [Object Detection]  [[CODE]](https://github.com/ohMargin/NTIRE2026_CDFSOD)*
   - *Xingyu Qiu, Yuqian Fu, Jiawei Geng, Bin Ren, Jiancheng Pan, Zongwei Wu, Hao Tang, Yanwei Fu, Radu Timofte, Nicu Sebe, et al.*
-- **ICLR, 2026.  [FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion](https://arxiv.org/pdf/2602.03137).  [[CODE]](https://intellindust-ai-lab.github.io/projects/FSOD-VFM)**
+- **[FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion](https://arxiv.org/pdf/2602.03137).**
+  - *ICLR, 2026.  [Object Detection]  [[CODE]](https://intellindust-ai-lab.github.io/projects/FSOD-VFM)*
   - *Chen-Bin Feng, Youyang Sha, Longfei Liu, Yongjun Yu, Chi Man Vong, Xuanlong Yu, Xi Shen.*
-- **AAAI, 2026.  [Less is Better: Sparse Instance Learning for Cross-Domain Few-Shot Object Detection](https://ojs.aaai.org/index.php/AAAI/article/view/37432).  [[CODE]](https://github.com/johnmaijer/LessIsBetter)**
+- **[Less is Better: Sparse Instance Learning for Cross-Domain Few-Shot Object Detection](https://ojs.aaai.org/index.php/AAAI/article/view/37432).**
+  - *AAAI, 2026.  [Object Detection]  [[CODE]](https://github.com/johnmaijer/LessIsBetter)*
   - *Yali Huang, Jie Mei, Ziyi Wu, Yiming Yang, Hongru Zhao, Mingyuan Jiu, Hichem Sahbi.*
-- **AAAI, 2026.  [Intra-Image Mining and Symmetric Maximum Concept Matching for Few Shot Out-of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/37280).  [[CODE]](https://github.com/pSGAme/IIM-SMCM)**
+- **[Intra-Image Mining and Symmetric Maximum Concept Matching for Few Shot Out-of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/37280).**
+  - *AAAI, 2026.  [OOD Detection]  [[CODE]](https://github.com/pSGAme/IIM-SMCM)*
   - *Kaixiang Chen, Pengfei Fang, Hui Xue.*
-- **AAAI, 2026.  [StyleProto: Style-Augmented Prototype Learning for Cross-Domain Few-Shot Object Detection](https://dblp.org/rec/conf/aaai/YangX26.html).  [[CODE]](https://github.com/Wildfire-det/StyleProto)**
+- **[StyleProto: Style-Augmented Prototype Learning for Cross-Domain Few-Shot Object Detection](https://dblp.org/rec/conf/aaai/YangX26.html).**
+  - *AAAI, 2026.  [Object Detection]  [[CODE]](https://github.com/Wildfire-det/StyleProto)*
   - *Xi Yang, Quantao Xie.*
-- **CVPR, 2026.  [Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2603.18541).**
+- **[Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2603.18541).**
+  - *CVPR, 2026.  [Object Detection]*
   - *Yongwei Jiang, Yixiong Zou, Yuhua Li, Ruixuan Li.*
-- **CVPR, 2026.  [A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps](https://arxiv.org/abs/2603.28182).  [[CODE]](https://github.com/Intellindust-AI-Lab/FT-FSOD)**
+- **[A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps](https://arxiv.org/abs/2603.28182).**
+  - *CVPR, 2026.  [Object Detection]  [[CODE]](https://github.com/Intellindust-AI-Lab/FT-FSOD)*
   - *Xuanlong Yu, Youyang Sha, Longfei Liu, Xi Shen, Di Yang.*
-- **CVPR, 2026.  [INSID3: Training-Free In-Context Segmentation with DINOv3 (Oral)](https://arxiv.org/abs/2603.28480).  [[CODE]](https://github.com/visinf/INSID3)**
+- **[INSID3: Training-Free In-Context Segmentation with DINOv3 (Oral)](https://arxiv.org/abs/2603.28480).**
+  - *CVPR, 2026.  [Object Detection]  [[CODE]](https://github.com/visinf/INSID3)*
   - *Claudia Cuttano, Gabriele Trivigno, Christoph Reich, Daniel Cremers, Carlo Masone, Stefan Roth.*
-- **CVPR, 2026.  [Language Does Matter for Cross-Domain Few-Shot Visual Feature Enhancement](https://openaccess.thecvf.com//content/CVPR2026/papers/Zhou_Language_Does_Matter_for_Cross-Domain_Few-Shot_Visual_Feature_Enhancement_CVPR_2026_paper.pdf).  [[CODE]](https://github.com/SivanXT/LDM-CDFSL)**
+- **[Language Does Matter for Cross-Domain Few-Shot Visual Feature Enhancement](https://openaccess.thecvf.com//content/CVPR2026/papers/Zhou_Language_Does_Matter_for_Cross-Domain_Few-Shot_Visual_Feature_Enhancement_CVPR_2026_paper.pdf).**
+  - *CVPR, 2026.  [Classification, Object Detection, Segmentation]  [[CODE]](https://github.com/SivanXT/LDM-CDFSL)*
   - *Fei Zhou, Xiwen Zhang, Qingqing Qiu, Lei Zhang, Wei Wei, Chen Ding, Yi Zhang, Liang Li, Xiangyu Yue, Yanning Zhang.*
-- **CVPR, 2026.  [AgentDet: A Shared-Blackboard Multi-Agent Framework for Zero-/Few-Shot Object Detection](https://openaccess.thecvf.com//content/CVPR2026/papers/Li_AgentDet_A_Shared-Blackboard_Multi-Agent_Framework_for_Zero-Few-Shot_Object_Detection_CVPR_2026_paper.pdf).**
+- **[AgentDet: A Shared-Blackboard Multi-Agent Framework for Zero-/Few-Shot Object Detection](https://openaccess.thecvf.com//content/CVPR2026/papers/Li_AgentDet_A_Shared-Blackboard_Multi-Agent_Framework_for_Zero-Few-Shot_Object_Detection_CVPR_2026_paper.pdf).**
+  - *CVPR, 2026.  [Agent, Object Detection]*
   - *Haolin Li, Yaohua Wang, Ze Yan, Lijie Wen, Biqing Huang.*
-- **CVPR, 2026.  [Pointing at Parts: Training-Free Few-Shot Grounding in Multimodal LLMs](https://openaccess.thecvf.com/content/CVPR2026/papers/Tsai_Pointing_at_Parts_Training-Free_Few-Shot_Grounding_in_Multimodal_LLMs_CVPR_2026_paper.pdf).**
+- **[Pointing at Parts: Training-Free Few-Shot Grounding in Multimodal LLMs](https://openaccess.thecvf.com/content/CVPR2026/papers/Tsai_Pointing_at_Parts_Training-Free_Few-Shot_Grounding_in_Multimodal_LLMs_CVPR_2026_paper.pdf).**
+  - *CVPR, 2026.  [Grounding, MLLM]*
   - *Shiang-Feng Tsai, Yuan-Hong Liao, Jin-Cheng Jhang, Nan Qiao, Min Sun.*
-- **ECCV, 2026.  [DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection](https://arxiv.org/abs/2603.23455).  [[CODE]](https://github.com/ggare-cmu/DetPO)**
+- **[DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection](https://arxiv.org/abs/2603.23455).**
+  - *ECCV, 2026.  [In-Context, Object Detection]  [[CODE]](https://github.com/ggare-cmu/DetPO)*
   - *Gautam Rajendrakumar Gare, Neehar Peri, Matvei Popov, Shruti Jain, John M. Galeotti, Deva Ramanan.*
-- **ICML, 2026.  [FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization](https://arxiv.org/abs/2605.31145).**
+- **[FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization](https://arxiv.org/abs/2605.31145).**
+  - *ICML, 2026.  [In-Context, Object Localization]*
   - *Mohammed Asad Karim, Vinay Kumar Verma.*
-- **arXiv, 2026.  [Reviving In-domain Fine-tuning Methods for Source-Free Cross-domain Few-shot Learning](https://arxiv.org/pdf/2605.11659).**
+- **[Reviving In-domain Fine-tuning Methods for Source-Free Cross-domain Few-shot Learning](https://arxiv.org/pdf/2605.11659).**
+  - *arXiv, 2026.  [Classification]*
   - *Yaze Zhao, Yicong Liu, Yixiong Zou, Yuhua Li, Ruixuan Li.*
-- **CVPR, 2026 (Findings).  [PrAda: Few-Shot Visual Adaptation for Text-Prompted Segmentation](https://arxiv.org/abs/2605.19623).  [[CODE]](https://github.com/FocoosAI/PrAda)**
+- **[PrAda: Few-Shot Visual Adaptation for Text-Prompted Segmentation](https://arxiv.org/abs/2605.19623).**
+  - *CVPR, 2026 (Findings).  [Visual Prompt, Segmentation]  [[CODE]](https://github.com/FocoosAI/PrAda)*
   - *Gabriele Rosi, Fabio Cermelli, Carlo Masone, Barbara Caputo.*
-- **arXiv, 2026.  [GiPL: Generative Augmented Iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2605.29539).  [[CODE]](https://github.com/z-yaz/CDiscover)**
+- **[GiPL: Generative Augmented Iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2605.29539).**
+  - *arXiv, 2026.  [Object Detection]  [[CODE]](https://github.com/z-yaz/CDiscover)*
   - *Jiacong Liu, Shu Luo, Yikai Qin, Yaze Zhao, Yongwei Jiang, Yixiong Zou.*
-- **arXiv, 2026.  [Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection](https://arxiv.org/abs/2606.23069).  [[CODE]](https://github.com/VisualScienceLab-KHU/ReSet)**
+- **[Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection](https://arxiv.org/abs/2606.23069).**
+  - *arXiv, 2026.  [Object Detection]  [[CODE]](https://github.com/VisualScienceLab-KHU/ReSet)*
   - *KunHo Heo, Seungjae Kim, Wongyu Lee, SuYeon Kim, MyeongAh Cho.*
-- **IJCNN, 2026.  [GP-Adapter: Gaussian Process CLIP-Adapter for Few-Shot Out-of-Distribution Detection](https://arxiv.org/abs/2606.07102).  [[CODE]](https://github.com/tms-byte/GP-Adapter)**
+- **[GP-Adapter: Gaussian Process CLIP-Adapter for Few-Shot Out-of-Distribution Detection](https://arxiv.org/abs/2606.07102).**
+  - *IJCNN, 2026.  [OOD Detection]  [[CODE]](https://github.com/tms-byte/GP-Adapter)*
   - *Taisei Saito, Koretaka Ogata, Takafumi Hiroi.*
-- **ECCV, 2026.  [Training-free Cross-domain Few-shot Segmentation via Robust Semantic Representation and Matching](https://arxiv.org/abs/2606.24297).  [[CODE]](https://github.com/Sparkling-Water/RSRM)**
+- **[Training-free Cross-domain Few-shot Segmentation via Robust Semantic Representation and Matching](https://arxiv.org/abs/2606.24297).**
+  - *ECCV, 2026.  [Segmentation]  [[CODE]](https://github.com/Sparkling-Water/RSRM)*
   - *Sujun Sun, Mingwu Ren, Haofeng Zhang.*
-- **arXiv, 2026.  [Personalized Object Identification and Localization via In-Context Inference with Vision-Language Models](https://arxiv.org/abs/2607.00357).**
+- **[Personalized Object Identification and Localization via In-Context Inference with Vision-Language Models](https://arxiv.org/abs/2607.00357).**
+  - *arXiv, 2026.  [Object Detection, VLM]*
   - *Kensuke Nakamura, Byung-Woo Hong.*
 
 ### 2025
