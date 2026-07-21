@@ -74,6 +74,9 @@ Collect some papers about few-shot object detection for computer vision.
 - **[Personalized Object Identification and Localization via In-Context Inference with Vision-Language Models](https://arxiv.org/abs/2607.00357).**
   - *arXiv, 2026.  [Object Detection, VLM]*
   - *Kensuke Nakamura, Byung-Woo Hong.*
+- **[Training-Free Open-Vocabulary 3D Point-Cloud Segmentation on the Generalized Few-Shot Benchmark](https://arxiv.org/abs/2607.15331).**
+  - *arXiv, 2026.  [3D Point-Cloud Segmentation, Few-Shot]*
+  - *Silas Kwabla Gah, Ebenezer Owusu.*
 
 ### 2025
 
