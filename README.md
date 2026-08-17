@@ -59,6 +59,9 @@ Collect some papers about few-shot object detection for computer vision.
 - **[PrAda: Few-Shot Visual Adaptation for Text-Prompted Segmentation](https://arxiv.org/abs/2605.19623).**
   - *CVPR, 2026 (Findings).  [Visual Prompt, Segmentation]  [[CODE]](https://github.com/FocoosAI/PrAda)*
   - *Gabriele Rosi, Fabio Cermelli, Carlo Masone, Barbara Caputo.*
+- **[Learning Multi-Modal Prototypes for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2602.18811).**
+  - *CVPR, 2026 (Findings).  [Object Detection]*
+  - *Wanqi Wang, Jingcai Guo, Yuxiang Cai, Zhi Chen.*
 - **[GiPL: Generative Augmented Iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2605.29539).**
   - *arXiv, 2026.  [Object Detection]  [[CODE]](https://github.com/z-yaz/CDiscover)*
   - *Jiacong Liu, Shu Luo, Yikai Qin, Yaze Zhao, Yongwei Jiang, Yixiong Zou.*
@@ -77,6 +80,12 @@ Collect some papers about few-shot object detection for computer vision.
 - **[Training-Free Open-Vocabulary 3D Point-Cloud Segmentation on the Generalized Few-Shot Benchmark](https://arxiv.org/abs/2607.15331).**
   - *arXiv, 2026.  [3D Point-Cloud Segmentation, Few-Shot]*
   - *Silas Kwabla Gah, Ebenezer Owusu.*
+- **[Few-Shot Open-Vocabulary Remote Sensing Segmentation via Textual Inversion](https://arxiv.org/abs/2607.25563).**
+  - *arXiv, 2026.  [Remote Sensing, Segmentation]  [[CODE]](https://github.com/ROKMC1250/FewShot-OVRS-TI)*
+  - *Junhyuk Heo, Junghwan Park.*
+- **[Free-Lunch Augmentation by Revisiting Diffusion-Based Data Generation for Cross-Domain Few-Shot Object Detection](https://arxiv.org/pdf/2608.04394).**
+  - *ECCV, 2026.  [Object Detection]  [[CODE]](https://github.com/zzzzj311-droid/Free-Lunch-SITN)*
+  - *Zijian Zhuang, Yixiong Zou, Yuhua Li, Ruixuan Li.*
 
 ### 2025
 
