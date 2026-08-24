@@ -63,10 +63,10 @@ Collect some papers about few-shot learning for computer vision.
   - <img src="https://img.shields.io/badge/CVPR%202026%20Findings-red" alt="CVPR" align="top">  [Object Detection]
   - *Wanqi Wang, Jingcai Guo, Yuxiang Cai, Zhi Chen.*
 - **[GiPL: Generative Augmented Iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2605.29539).**
-  - <img src="https://img.shields.io/badge/arXiv%202026-b31b1b" alt="arXiv" align="top">  [Object Detection]  <a href="https://github.com/z-yaz/CDiscover"><img src="https://img.shields.io/github/stars/z-yaz/CDiscover.svg?style=social&label=Star" alt="Star" align="top"></a>
+  - <img src="https://img.shields.io/badge/arXiv%202026-b31b1b" alt="arXiv" align="top">  [Object Detection]  <a href="https://github.com/z-yaz/CDiscover"><img src="https://img.shields.io/github/stars/z-yaz/CDiscover.svg?style=social&label=Star" alt="Star" align="bottom"></a>
   - *Jiacong Liu, Shu Luo, Yikai Qin, Yaze Zhao, Yongwei Jiang, Yixiong Zou.*
 - **[Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection](https://arxiv.org/abs/2606.23069).**
-  - <img src="https://img.shields.io/badge/ECCV%202026-purple" alt="ECCV" align="top">  [Object Detection]  <a href="https://github.com/VisualScienceLab-KHU/ReSet"><img src="https://img.shields.io/github/stars/VisualScienceLab-KHU/ReSet.svg?style=social&label=Star" alt="Star" align="top"></a>
+  - <img src="https://img.shields.io/badge/ECCV%202026-purple" alt="ECCV" align="top">  [Object Detection]  <a href="https://github.com/VisualScienceLab-KHU/ReSet"><img src="https://img.shields.io/github/stars/VisualScienceLab-KHU/ReSet.svg?style=social&label=Star" alt="Star" align="middle"></a>
   - *KunHo Heo, Seungjae Kim, Wongyu Lee, SuYeon Kim, MyeongAh Cho.*
 - **[GP-Adapter: Gaussian Process CLIP-Adapter for Few-Shot Out-of-Distribution Detection](https://arxiv.org/abs/2606.07102).**
   - <img src="https://img.shields.io/badge/IJCNN%202026-blue" alt="IJCNN" align="top">  [OOD Detection]  <a href="https://github.com/tms-byte/GP-Adapter"><img src="https://img.shields.io/github/stars/tms-byte/GP-Adapter.svg?style=social&label=Star" alt="Star" align="top"></a>
