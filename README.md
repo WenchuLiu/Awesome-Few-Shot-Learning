@@ -15,77 +15,83 @@ Collect some papers about few-shot learning for computer vision.
 ### 2026
 
 - **[The Second Challenge on Cross-Domain Few-Shot Object Detection at NTIRE 2026: Methods and Results](https://arxiv.org/abs/2604.11998).**
-  - *CVPRW, 2026.  [Object Detection]  [![Star](https://img.shields.io/github/stars/ohMargin/NTIRE2026_CDFSOD.svg?style=social&label=Star)](https://github.com/ohMargin/NTIRE2026_CDFSOD)*
+  - *![CVPRW](https://img.shields.io/badge/CVPRW%202026-red)  [Object Detection]  [![Star](https://img.shields.io/github/stars/ohMargin/NTIRE2026_CDFSOD.svg?style=social&label=Star)](https://github.com/ohMargin/NTIRE2026_CDFSOD)*
   - *Xingyu Qiu, Yuqian Fu, Jiawei Geng, Bin Ren, Jiancheng Pan, Zongwei Wu, Hao Tang, Yanwei Fu, Radu Timofte, Nicu Sebe, et al.*
 - **[FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion](https://arxiv.org/pdf/2602.03137).**
-  - *ICLR, 2026.  [Object Detection]  [![Star](https://img.shields.io/github/stars/Intellindust-AI-Lab/FSOD-VFM.svg?style=social&label=Star)](https://intellindust-ai-lab.github.io/projects/FSOD-VFM)*
+  - *![ICLR](https://img.shields.io/badge/ICLR%202026-orange)  [Object Detection]  [![Star](https://img.shields.io/github/stars/Intellindust-AI-Lab/FSOD-VFM.svg?style=social&label=Star)](https://intellindust-ai-lab.github.io/projects/FSOD-VFM)*
   - *Chen-Bin Feng, Youyang Sha, Longfei Liu, Yongjun Yu, Chi Man Vong, Xuanlong Yu, Xi Shen.*
 - **[Less is Better: Sparse Instance Learning for Cross-Domain Few-Shot Object Detection](https://ojs.aaai.org/index.php/AAAI/article/view/37432).**
-  - *AAAI, 2026.  [Object Detection]  [![Star](https://img.shields.io/github/stars/johnmaijer/LessIsBetter.svg?style=social&label=Star)](https://github.com/johnmaijer/LessIsBetter)*
+  - *![AAAI](https://img.shields.io/badge/AAAI%202026-green)  [Object Detection]  [![Star](https://img.shields.io/github/stars/johnmaijer/LessIsBetter.svg?style=social&label=Star)](https://github.com/johnmaijer/LessIsBetter)*
   - *Yali Huang, Jie Mei, Ziyi Wu, Yiming Yang, Hongru Zhao, Mingyuan Jiu, Hichem Sahbi.*
 - **[Intra-Image Mining and Symmetric Maximum Concept Matching for Few Shot Out-of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/37280).**
-  - *AAAI, 2026.  [OOD Detection]  [![Star](https://img.shields.io/github/stars/pSGAme/IIM-SMCM.svg?style=social&label=Star)](https://github.com/pSGAme/IIM-SMCM)*
+  - *![AAAI](https://img.shields.io/badge/AAAI%202026-green)  [OOD Detection]  [![Star](https://img.shields.io/github/stars/pSGAme/IIM-SMCM.svg?style=social&label=Star)](https://github.com/pSGAme/IIM-SMCM)*
   - *Kaixiang Chen, Pengfei Fang, Hui Xue.*
 - **[StyleProto: Style-Augmented Prototype Learning for Cross-Domain Few-Shot Object Detection](https://dblp.org/rec/conf/aaai/YangX26.html).**
-  - *AAAI, 2026.  [Object Detection]  [![Star](https://img.shields.io/github/stars/Wildfire-det/StyleProto.svg?style=social&label=Star)](https://github.com/Wildfire-det/StyleProto)*
+  - *![AAAI](https://img.shields.io/badge/AAAI%202026-green)  [Object Detection]  [![Star](https://img.shields.io/github/stars/Wildfire-det/StyleProto.svg?style=social&label=Star)](https://github.com/Wildfire-det/StyleProto)*
   - *Xi Yang, Quantao Xie.*
 - **[Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2603.18541).**
-  - *CVPR, 2026.  [Object Detection]*
+  - *![CVPR](https://img.shields.io/badge/CVPR%202026-red)  [Object Detection]*
   - *Yongwei Jiang, Yixiong Zou, Yuhua Li, Ruixuan Li.*
 - **[A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps](https://arxiv.org/abs/2603.28182).**
-  - *CVPR, 2026.  [Object Detection]  [![Star](https://img.shields.io/github/stars/Intellindust-AI-Lab/FT-FSOD.svg?style=social&label=Star)](https://github.com/Intellindust-AI-Lab/FT-FSOD)*
+  - *![CVPR](https://img.shields.io/badge/CVPR%202026-red)  [Object Detection]  [![Star](https://img.shields.io/github/stars/Intellindust-AI-Lab/FT-FSOD.svg?style=social&label=Star)](https://github.com/Intellindust-AI-Lab/FT-FSOD)*
   - *Xuanlong Yu, Youyang Sha, Longfei Liu, Xi Shen, Di Yang.*
 - **[INSID3: Training-Free In-Context Segmentation with DINOv3 (Oral)](https://arxiv.org/abs/2603.28480).**
-  - *CVPR, 2026.  [Object Detection]  [![Star](https://img.shields.io/github/stars/visinf/INSID3.svg?style=social&label=Star)](https://github.com/visinf/INSID3)*
+  - *![CVPR](https://img.shields.io/badge/CVPR%202026-red)  [Object Detection]  [![Star](https://img.shields.io/github/stars/visinf/INSID3.svg?style=social&label=Star)](https://github.com/visinf/INSID3)*
   - *Claudia Cuttano, Gabriele Trivigno, Christoph Reich, Daniel Cremers, Carlo Masone, Stefan Roth.*
 - **[Language Does Matter for Cross-Domain Few-Shot Visual Feature Enhancement](https://openaccess.thecvf.com//content/CVPR2026/papers/Zhou_Language_Does_Matter_for_Cross-Domain_Few-Shot_Visual_Feature_Enhancement_CVPR_2026_paper.pdf).**
-  - *CVPR, 2026.  [Classification, Object Detection, Segmentation]  [![Star](https://img.shields.io/github/stars/SivanXT/LDM-CDFSL.svg?style=social&label=Star)](https://github.com/SivanXT/LDM-CDFSL)*
+  - *![CVPR](https://img.shields.io/badge/CVPR%202026-red)  [Classification, Object Detection, Segmentation]  [![Star](https://img.shields.io/github/stars/SivanXT/LDM-CDFSL.svg?style=social&label=Star)](https://github.com/SivanXT/LDM-CDFSL)*
   - *Fei Zhou, Xiwen Zhang, Qingqing Qiu, Lei Zhang, Wei Wei, Chen Ding, Yi Zhang, Liang Li, Xiangyu Yue, Yanning Zhang.*
 - **[AgentDet: A Shared-Blackboard Multi-Agent Framework for Zero-/Few-Shot Object Detection](https://openaccess.thecvf.com//content/CVPR2026/papers/Li_AgentDet_A_Shared-Blackboard_Multi-Agent_Framework_for_Zero-Few-Shot_Object_Detection_CVPR_2026_paper.pdf).**
-  - *CVPR, 2026.  [Agent, Object Detection]*
+  - *![CVPR](https://img.shields.io/badge/CVPR%202026-red)  [Agent, Object Detection]*
   - *Haolin Li, Yaohua Wang, Ze Yan, Lijie Wen, Biqing Huang.*
 - **[Pointing at Parts: Training-Free Few-Shot Grounding in Multimodal LLMs](https://openaccess.thecvf.com/content/CVPR2026/papers/Tsai_Pointing_at_Parts_Training-Free_Few-Shot_Grounding_in_Multimodal_LLMs_CVPR_2026_paper.pdf).**
-  - *CVPR, 2026.  [Grounding, MLLM]*
+  - *![CVPR](https://img.shields.io/badge/CVPR%202026-red)  [Grounding, MLLM]*
   - *Shiang-Feng Tsai, Yuan-Hong Liao, Jin-Cheng Jhang, Nan Qiao, Min Sun.*
 - **[DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection](https://arxiv.org/abs/2603.23455).**
-  - *ECCV, 2026.  [In-Context, Object Detection]  [![Star](https://img.shields.io/github/stars/ggare-cmu/DetPO.svg?style=social&label=Star)](https://github.com/ggare-cmu/DetPO)*
+  - *![ECCV](https://img.shields.io/badge/ECCV%202026-purple)  [In-Context, Object Detection]  [![Star](https://img.shields.io/github/stars/ggare-cmu/DetPO.svg?style=social&label=Star)](https://github.com/ggare-cmu/DetPO)*
   - *Gautam Rajendrakumar Gare, Neehar Peri, Matvei Popov, Shruti Jain, John M. Galeotti, Deva Ramanan.*
 - **[FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization](https://arxiv.org/abs/2605.31145).**
-  - *ICML, 2026.  [In-Context, Object Localization]*
+  - *![ICML](https://img.shields.io/badge/ICML%202026-teal)  [In-Context, Object Localization]*
   - *Mohammed Asad Karim, Vinay Kumar Verma.*
 - **[Reviving In-domain Fine-tuning Methods for Source-Free Cross-domain Few-shot Learning](https://arxiv.org/pdf/2605.11659).**
-  - *arXiv, 2026.  [Classification]*
+  - *![arXiv](https://img.shields.io/badge/arXiv%202026-b31b1b)  [Classification]*
   - *Yaze Zhao, Yicong Liu, Yixiong Zou, Yuhua Li, Ruixuan Li.*
 - **[PrAda: Few-Shot Visual Adaptation for Text-Prompted Segmentation](https://arxiv.org/abs/2605.19623).**
-  - *CVPR, 2026 (Findings).  [Visual Prompt, Segmentation]  [![Star](https://img.shields.io/github/stars/FocoosAI/PrAda.svg?style=social&label=Star)](https://github.com/FocoosAI/PrAda)*
+  - *![CVPR](https://img.shields.io/badge/CVPR%202026%20Findings-red)  [Visual Prompt, Segmentation]  [![Star](https://img.shields.io/github/stars/FocoosAI/PrAda.svg?style=social&label=Star)](https://github.com/FocoosAI/PrAda)*
   - *Gabriele Rosi, Fabio Cermelli, Carlo Masone, Barbara Caputo.*
 - **[Learning Multi-Modal Prototypes for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2602.18811).**
-  - *CVPR, 2026 (Findings).  [Object Detection]*
+  - *![CVPR](https://img.shields.io/badge/CVPR%202026%20Findings-red)  [Object Detection]*
   - *Wanqi Wang, Jingcai Guo, Yuxiang Cai, Zhi Chen.*
 - **[GiPL: Generative Augmented Iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2605.29539).**
-  - *arXiv, 2026.  [Object Detection]  [![Star](https://img.shields.io/github/stars/z-yaz/CDiscover.svg?style=social&label=Star)](https://github.com/z-yaz/CDiscover)*
+  - *![arXiv](https://img.shields.io/badge/arXiv%202026-b31b1b)  [Object Detection]  [![Star](https://img.shields.io/github/stars/z-yaz/CDiscover.svg?style=social&label=Star)](https://github.com/z-yaz/CDiscover)*
   - *Jiacong Liu, Shu Luo, Yikai Qin, Yaze Zhao, Yongwei Jiang, Yixiong Zou.*
 - **[Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection](https://arxiv.org/abs/2606.23069).**
-  - *arXiv, 2026.  [Object Detection]  [![Star](https://img.shields.io/github/stars/VisualScienceLab-KHU/ReSet.svg?style=social&label=Star)](https://github.com/VisualScienceLab-KHU/ReSet)*
+  - *![ECCV](https://img.shields.io/badge/ECCV%202026-purple)  [Object Detection]  [![Star](https://img.shields.io/github/stars/VisualScienceLab-KHU/ReSet.svg?style=social&label=Star)](https://github.com/VisualScienceLab-KHU/ReSet)*
   - *KunHo Heo, Seungjae Kim, Wongyu Lee, SuYeon Kim, MyeongAh Cho.*
 - **[GP-Adapter: Gaussian Process CLIP-Adapter for Few-Shot Out-of-Distribution Detection](https://arxiv.org/abs/2606.07102).**
-  - *IJCNN, 2026.  [OOD Detection]  [![Star](https://img.shields.io/github/stars/tms-byte/GP-Adapter.svg?style=social&label=Star)](https://github.com/tms-byte/GP-Adapter)*
+  - *![IJCNN](https://img.shields.io/badge/IJCNN%202026-blue)  [OOD Detection]  [![Star](https://img.shields.io/github/stars/tms-byte/GP-Adapter.svg?style=social&label=Star)](https://github.com/tms-byte/GP-Adapter)*
   - *Taisei Saito, Koretaka Ogata, Takafumi Hiroi.*
 - **[Training-free Cross-domain Few-shot Segmentation via Robust Semantic Representation and Matching](https://arxiv.org/abs/2606.24297).**
-  - *ECCV, 2026.  [Segmentation]  [![Star](https://img.shields.io/github/stars/Sparkling-Water/RSRM.svg?style=social&label=Star)](https://github.com/Sparkling-Water/RSRM)*
+  - *![ECCV](https://img.shields.io/badge/ECCV%202026-purple)  [Segmentation]  [![Star](https://img.shields.io/github/stars/Sparkling-Water/RSRM.svg?style=social&label=Star)](https://github.com/Sparkling-Water/RSRM)*
   - *Sujun Sun, Mingwu Ren, Haofeng Zhang.*
 - **[Personalized Object Identification and Localization via In-Context Inference with Vision-Language Models](https://arxiv.org/abs/2607.00357).**
-  - *arXiv, 2026.  [Object Detection, VLM]*
+  - *![arXiv](https://img.shields.io/badge/arXiv%202026-b31b1b)  [Object Detection, VLM]*
   - *Kensuke Nakamura, Byung-Woo Hong.*
 - **[Training-Free Open-Vocabulary 3D Point-Cloud Segmentation on the Generalized Few-Shot Benchmark](https://arxiv.org/abs/2607.15331).**
-  - *arXiv, 2026.  [3D Point-Cloud Segmentation, Few-Shot]*
+  - *![arXiv](https://img.shields.io/badge/arXiv%202026-b31b1b)  [3D Point-Cloud Segmentation, Few-Shot]*
   - *Silas Kwabla Gah, Ebenezer Owusu.*
 - **[Few-Shot Open-Vocabulary Remote Sensing Segmentation via Textual Inversion](https://arxiv.org/abs/2607.25563).**
-  - *arXiv, 2026.  [Remote Sensing, Segmentation]  [![Star](https://img.shields.io/github/stars/ROKMC1250/FewShot-OVRS-TI.svg?style=social&label=Star)](https://github.com/ROKMC1250/FewShot-OVRS-TI)*
+  - *![arXiv](https://img.shields.io/badge/arXiv%202026-b31b1b)  [Remote Sensing, Segmentation]  [![Star](https://img.shields.io/github/stars/ROKMC1250/FewShot-OVRS-TI.svg?style=social&label=Star)](https://github.com/ROKMC1250/FewShot-OVRS-TI)*
   - *Junhyuk Heo, Junghwan Park.*
 - **[Free-Lunch Augmentation by Revisiting Diffusion-Based Data Generation for Cross-Domain Few-Shot Object Detection](https://arxiv.org/pdf/2608.04394).**
-  - *ECCV, 2026.  [Object Detection]  [![Star](https://img.shields.io/github/stars/zzzzj311-droid/Free-Lunch-SITN.svg?style=social&label=Star)](https://github.com/zzzzj311-droid/Free-Lunch-SITN)*
+  - *![ECCV](https://img.shields.io/badge/ECCV%202026-purple)  [Object Detection]  [![Star](https://img.shields.io/github/stars/zzzzj311-droid/Free-Lunch-SITN.svg?style=social&label=Star)](https://github.com/zzzzj311-droid/Free-Lunch-SITN)*
   - *Zijian Zhuang, Yixiong Zou, Yuhua Li, Ruixuan Li.*
+- **[Hierarchical Spatial and Channel Aggregation for Cross-domain Few-shot Segmentation](https://arxiv.org/abs/2606.24296).**
+  - *![ECCV](https://img.shields.io/badge/ECCV%202026-purple)  [Segmentation]*
+  - *Sujun Sun, Mingwu Ren, Haofeng Zhang.*
+- **[Unlocking Few-Shot Capabilities in LVLMs via Prompt Conditioning and Head Selection](https://arxiv.org/pdf/2603.24181).**
+  - *![ECCV](https://img.shields.io/badge/ECCV%202026-purple)  [Classification, LVLM]  [![Star](https://img.shields.io/github/stars/AdhemarDeSenneville/HEC.svg?style=social&label=Star)](https://github.com/AdhemarDeSenneville/HEC)*
+  - *Adhemar de Senneville, Xavier Bou, Jérémy Anger, Rafael Grompone, Gabriele Facciolo.*
 
 ### 2025
 
