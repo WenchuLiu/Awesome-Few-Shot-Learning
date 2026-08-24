@@ -92,6 +92,9 @@ Collect some papers about few-shot learning for computer vision.
 - **[Unlocking Few-Shot Capabilities in LVLMs via Prompt Conditioning and Head Selection](https://arxiv.org/pdf/2603.24181).**
   - <img src="https://img.shields.io/badge/ECCV%202026-purple" alt="ECCV" align="top">  [Classification, LVLM]  <a href="https://github.com/AdhemarDeSenneville/HEC"><img src="https://img.shields.io/github/stars/AdhemarDeSenneville/HEC.svg?style=social&label=Star" alt="Star" align="top"></a>
   - *Adhemar de Senneville, Xavier Bou, Jérémy Anger, Rafael Grompone, Gabriele Facciolo.*
+- **[Decompose, Compare, and Decide: Multimodal LLMs are Implicit Few-Shot Learners](https://arxiv.org/pdf/2607.00125v1).**
+  - <img src="https://img.shields.io/badge/ECCV%202026-purple" alt="ECCV" align="top">  [Classification, MLLM]  <a href="https://github.com/yunhanwang1105/DeCoDe"><img src="https://img.shields.io/github/stars/yunhanwang1105/DeCoDe.svg?style=social&label=Star" alt="Star" align="top"></a>
+  - *Yunhan Wang, Eshika Khandelwal, Edson Araujo, Walid Bousselham, Nina Shvetsova, Hilde Kuehne.*
 
 ### 2025
 
