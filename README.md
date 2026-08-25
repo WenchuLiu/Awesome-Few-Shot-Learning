@@ -95,6 +95,9 @@ Collect some papers about few-shot learning for computer vision.
 - **[Decompose, Compare, and Decide: Multimodal LLMs are Implicit Few-Shot Learners](https://arxiv.org/pdf/2607.00125v1).**
   - <img src="https://img.shields.io/badge/ECCV%202026-purple" alt="ECCV" align="top">  [Classification, MLLM]  <a href="https://github.com/yunhanwang1105/DeCoDe"><img src="https://img.shields.io/github/stars/yunhanwang1105/DeCoDe.svg?style=social&label=Star" alt="Star" align="top"></a>
   - *Yunhan Wang, Eshika Khandelwal, Edson Araujo, Walid Bousselham, Nina Shvetsova, Hilde Kuehne.*
+- **[Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations](https://arxiv.org/pdf/2511.22697).**
+  - <img src="https://img.shields.io/badge/ECCV%202026-purple" alt="ECCV" align="top">  [Robotics, VLA]  <a href="https://chancharikmitra.github.io/robosteering/"><img src="https://img.shields.io/github/stars/chancharikmitra/robosteering.svg?style=social&label=Star" alt="Star" align="top"></a>
+  - *Chancharik Mitra, Yusen Luo, Raj Saravanan, Dantong Niu, Anirudh Pai, Jesse Thomason, Trevor Darrell, Abrar Anwar, Deva Ramanan, Roei Herzig.*
 
 ### 2025
 
