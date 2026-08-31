@@ -98,6 +98,12 @@ Collect some papers about few-shot learning for computer vision.
 - **[Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations](https://arxiv.org/pdf/2511.22697).**
   - <img src="https://img.shields.io/badge/ECCV%202026-purple" alt="ECCV" align="top">  [Robotics, VLA]  <a href="https://chancharikmitra.github.io/robosteering/"><img src="https://img.shields.io/github/stars/chancharikmitra/robosteering.svg?style=social&label=Star" alt="Star" align="top"></a>
   - *Chancharik Mitra, Yusen Luo, Raj Saravanan, Dantong Niu, Anirudh Pai, Jesse Thomason, Trevor Darrell, Abrar Anwar, Deva Ramanan, Roei Herzig.*
+- **[HyCal: A Training-Free Prototype Calibration Method for Cross-Discipline Few-Shot Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_HyCal_A_Training-Free_Prototype_Calibration_Method_for_Cross-Discipline_Few-Shot_Class-Incremental_CVPR_2026_paper.pdf).**
+  - <img src="https://img.shields.io/badge/CVPR%202026-red" alt="CVPR" align="top">  [FSCIL, Classification]
+  - *Eunju Lee, MiHyeon Kim, JuneHyoung Kwon, Yoonji Lee, JiHyun Kim, Soojin Jang, YoungBin Kim.*
+- **[Addressing Exacerbated Attention Sink for Source-Free Cross-Domain Few-Shot Learning](https://openaccess.thecvf.com/content/CVPR2026/papers/Yi_Addressing_Exacerbated_Attention_Sink_for_Source-Free_Cross-Domain_Few-Shot_Learning_CVPR_2026_paper.pdf).**
+  - <img src="https://img.shields.io/badge/CVPR%202026-red" alt="CVPR" align="top">  [Classification, CDFSL]
+  - *Shuai Yi, Yixiong Zou, Yuhua Li, Ruixuan Li.*
 
 ### 2025
 
