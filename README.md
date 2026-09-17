@@ -114,6 +114,11 @@ Collect some papers about few-shot learning for computer vision.
   *Gautam Rajendrakumar Gare, Siyi Li, Hewei Wang, Cesar Daniel Hernandez, Wei Zhao, Wolfgang M. Pauli, John Galeotti, Deva Ramanan*<br>
   Carnegie Mellon University, Apple
   <img src="https://img.shields.io/badge/arXiv%202026-b31b1b" alt="arXiv" align="top">  <img src="https://img.shields.io/badge/Visual%20Prompt-teal" alt="Visual Prompt" align="top"> <img src="https://img.shields.io/badge/VLM-blueviolet" alt="VLM" align="top">
+- **[Convergent Emergence of In-Context Learning Across Modalities](https://arxiv.org/abs/2609.14011).**<br>
+  *Nathan Breslow, Seungwook Han, Daniel Hyunsoo Lee, Aayush Mishra, Anqi Liu, Daniel Khashabi.*<br>
+  MIT<br>
+  University of Illinois Urbana-Champaign<br>
+  Johns Hopkins University
 
 ### 2025
 
