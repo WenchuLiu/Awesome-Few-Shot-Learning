@@ -26,6 +26,10 @@ Collect some papers about few-shot learning for computer vision.
 - **[FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion](https://arxiv.org/pdf/2602.03137).**<br>
   *Chen-Bin Feng, Youyang Sha, Longfei Liu, Yongjun Yu, Chi Man Vong, Xuanlong Yu, Xi Shen.*<br>
   <img src="https://img.shields.io/badge/ICLR%202026-orange" alt="ICLR" align="top">  <img src="https://img.shields.io/badge/Object%20Detection-007ec6" alt="Object Detection" align="top">  <a href="https://intellindust-ai-lab.github.io/projects/FSOD-VFM"><img src="https://img.shields.io/github/stars/Intellindust-AI-Lab/FSOD-VFM.svg?style=social&label=Star" alt="Star" align="top"></a>
+- **[DVLA-RL: Dual-Level Vision–Language Alignment with Reinforcement Learning Gating for Few-Shot Learning](https://www.scholar-inbox.com/paper/Li2026ICLR_DVLA_RL_Dual_Level).**<br>
+  *Wenhao Li, Xianjing Meng, Qiangchang Wang, Zhongyi Han, Zhibin Wu, Yilong Yin.*<br>
+  School of Software, Shandong University; School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen); Shenzhen Loop Area Institute; School of Computing and Artificial Intelligence, Shandong University of Finance and Economics; Software School, Shandong University; School of Computer and Artificial Intelligence, Shandong University of Finance and Economics.<br>
+  <img src="https://img.shields.io/badge/ICLR%202026-orange" alt="ICLR" align="top">  <img src="https://img.shields.io/badge/Few--Shot%20Learning-607d8b" alt="Few-Shot Learning" align="top">
 - **[Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors](https://arxiv.org/abs/2510.01934).**<br>
   *Guangyao Zhai, Yue Zhou, Xinyan Deng, Lars Heckler, Nassir Navab, Benjamin Busam.*<br>
   <img src="https://img.shields.io/badge/ICLR%202026-orange" alt="ICLR" align="top">  <img src="https://img.shields.io/badge/Anomaly%20Detection-00897b" alt="Anomaly Detection" align="top">  <a href="https://github.com/ymxlzgy/FoundAD"><img src="https://img.shields.io/github/stars/ymxlzgy/FoundAD.svg?style=social&label=Star" alt="Star" align="top"></a>
